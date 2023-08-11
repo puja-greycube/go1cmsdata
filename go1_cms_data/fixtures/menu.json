@@ -1,0 +1,384 @@
+[
+ {
+  "docstatus": 0,
+  "doctype": "Menu",
+  "is_static_menu": 1,
+  "menus": [
+   {
+    "icon": null,
+    "is_mega_menu": 0,
+    "mega_m_col_index": 0,
+    "menu_label": "About Us",
+    "no_of_column": 0,
+    "parent": "Pages",
+    "parent_menu": null,
+    "parentfield": "menus",
+    "parenttype": "Menu",
+    "position": "Left",
+    "redirect_url": null
+   },
+   {
+    "icon": null,
+    "is_mega_menu": 0,
+    "mega_m_col_index": 0,
+    "menu_label": "Contact Us",
+    "no_of_column": 0,
+    "parent": "Pages",
+    "parent_menu": null,
+    "parentfield": "menus",
+    "parenttype": "Menu",
+    "position": "Left",
+    "redirect_url": null
+   },
+   {
+    "icon": null,
+    "is_mega_menu": 0,
+    "mega_m_col_index": 0,
+    "menu_label": "Blog",
+    "no_of_column": 0,
+    "parent": "Pages",
+    "parent_menu": null,
+    "parentfield": "menus",
+    "parenttype": "Menu",
+    "position": "Left",
+    "redirect_url": null
+   },
+   {
+    "icon": null,
+    "is_mega_menu": 0,
+    "mega_m_col_index": 0,
+    "menu_label": "Shop",
+    "no_of_column": 0,
+    "parent": "Pages",
+    "parent_menu": null,
+    "parentfield": "menus",
+    "parenttype": "Menu",
+    "position": "Left",
+    "redirect_url": null
+   }
+  ],
+  "modified": "2023-08-04 14:46:57.943051",
+  "name": "Pages",
+  "title": "Pages"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Menu",
+  "is_static_menu": 1,
+  "menus": [
+   {
+    "icon": null,
+    "is_mega_menu": 0,
+    "mega_m_col_index": 0,
+    "menu_label": "Home",
+    "no_of_column": 0,
+    "parent": "Default Header menu",
+    "parent_menu": null,
+    "parentfield": "menus",
+    "parenttype": "Menu",
+    "position": "Left",
+    "redirect_url": "/"
+   },
+   {
+    "icon": null,
+    "is_mega_menu": 0,
+    "mega_m_col_index": 0,
+    "menu_label": "About Us",
+    "no_of_column": 0,
+    "parent": "Default Header menu",
+    "parent_menu": null,
+    "parentfield": "menus",
+    "parenttype": "Menu",
+    "position": "Left",
+    "redirect_url": "#"
+   },
+   {
+    "icon": null,
+    "is_mega_menu": 0,
+    "mega_m_col_index": 0,
+    "menu_label": "Contact Us",
+    "no_of_column": 0,
+    "parent": "Default Header menu",
+    "parent_menu": null,
+    "parentfield": "menus",
+    "parenttype": "Menu",
+    "position": "Left",
+    "redirect_url": "#"
+   }
+  ],
+  "modified": "2023-08-04 14:46:57.931907",
+  "name": "Default Header menu",
+  "title": "Default Header menu"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Menu",
+  "is_static_menu": 1,
+  "menus": [
+   {
+    "icon": null,
+    "is_mega_menu": 0,
+    "mega_m_col_index": 0,
+    "menu_label": "Contact & Support",
+    "no_of_column": 0,
+    "parent": "Company",
+    "parent_menu": null,
+    "parentfield": "menus",
+    "parenttype": "Menu",
+    "position": "Left",
+    "redirect_url": null
+   },
+   {
+    "icon": null,
+    "is_mega_menu": 0,
+    "mega_m_col_index": 0,
+    "menu_label": "Success History",
+    "no_of_column": 0,
+    "parent": "Company",
+    "parent_menu": null,
+    "parentfield": "menus",
+    "parenttype": "Menu",
+    "position": "Left",
+    "redirect_url": null
+   },
+   {
+    "icon": null,
+    "is_mega_menu": 0,
+    "mega_m_col_index": 0,
+    "menu_label": "Setting & Privacy",
+    "no_of_column": 0,
+    "parent": "Company",
+    "parent_menu": null,
+    "parentfield": "menus",
+    "parenttype": "Menu",
+    "position": "Left",
+    "redirect_url": null
+   }
+  ],
+  "modified": "2023-08-04 14:46:57.950005",
+  "name": "Company",
+  "title": "Company"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Menu",
+  "is_static_menu": 1,
+  "menus": [
+   {
+    "icon": null,
+    "is_mega_menu": 0,
+    "mega_m_col_index": 0,
+    "menu_label": "Location",
+    "no_of_column": 0,
+    "parent": "Contact Us",
+    "parent_menu": null,
+    "parentfield": "menus",
+    "parenttype": "Menu",
+    "position": "Left",
+    "redirect_url": null
+   },
+   {
+    "icon": null,
+    "is_mega_menu": 0,
+    "mega_m_col_index": 0,
+    "menu_label": "Email",
+    "no_of_column": 0,
+    "parent": "Contact Us",
+    "parent_menu": null,
+    "parentfield": "menus",
+    "parenttype": "Menu",
+    "position": "Left",
+    "redirect_url": null
+   },
+   {
+    "icon": null,
+    "is_mega_menu": 0,
+    "mega_m_col_index": 0,
+    "menu_label": "Telephone",
+    "no_of_column": 0,
+    "parent": "Contact Us",
+    "parent_menu": null,
+    "parentfield": "menus",
+    "parenttype": "Menu",
+    "position": "Left",
+    "redirect_url": null
+   }
+  ],
+  "modified": "2023-08-04 14:46:57.954463",
+  "name": "Contact Us",
+  "title": "Contact Us"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Menu",
+  "is_static_menu": 1,
+  "menus": [
+   {
+    "icon": null,
+    "is_mega_menu": 0,
+    "mega_m_col_index": 0,
+    "menu_label": "Facebook",
+    "no_of_column": 0,
+    "parent": "Social Media",
+    "parent_menu": null,
+    "parentfield": "menus",
+    "parenttype": "Menu",
+    "position": "Left",
+    "redirect_url": null
+   },
+   {
+    "icon": null,
+    "is_mega_menu": 0,
+    "mega_m_col_index": 0,
+    "menu_label": "Instagram",
+    "no_of_column": 0,
+    "parent": "Social Media",
+    "parent_menu": null,
+    "parentfield": "menus",
+    "parenttype": "Menu",
+    "position": "Left",
+    "redirect_url": null
+   },
+   {
+    "icon": null,
+    "is_mega_menu": 0,
+    "mega_m_col_index": 0,
+    "menu_label": "Twitter",
+    "no_of_column": 0,
+    "parent": "Social Media",
+    "parent_menu": null,
+    "parentfield": "menus",
+    "parenttype": "Menu",
+    "position": "Left",
+    "redirect_url": null
+   }
+  ],
+  "modified": "2023-08-04 14:46:57.961167",
+  "name": "Social Media",
+  "title": "Social Media"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Menu",
+  "is_static_menu": 1,
+  "menus": [
+   {
+    "icon": null,
+    "is_mega_menu": 0,
+    "mega_m_col_index": 0,
+    "menu_label": "Me",
+    "no_of_column": 0,
+    "parent": "My Details",
+    "parent_menu": "About Me",
+    "parentfield": "menus",
+    "parenttype": "Menu",
+    "position": "Left",
+    "redirect_url": null
+   },
+   {
+    "icon": null,
+    "is_mega_menu": 0,
+    "mega_m_col_index": 0,
+    "menu_label": "My family",
+    "no_of_column": 0,
+    "parent": "My Details",
+    "parent_menu": "About Me",
+    "parentfield": "menus",
+    "parenttype": "Menu",
+    "position": "Left",
+    "redirect_url": null
+   },
+   {
+    "icon": null,
+    "is_mega_menu": 0,
+    "mega_m_col_index": 0,
+    "menu_label": "About my work",
+    "no_of_column": 0,
+    "parent": "My Details",
+    "parent_menu": null,
+    "parentfield": "menus",
+    "parenttype": "Menu",
+    "position": "Left",
+    "redirect_url": null
+   }
+  ],
+  "modified": "2023-08-05 12:51:49.653666",
+  "name": "My Details",
+  "title": "My Details"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Menu",
+  "is_static_menu": 1,
+  "menus": [
+   {
+    "icon": null,
+    "is_mega_menu": 0,
+    "mega_m_col_index": 0,
+    "menu_label": "Home",
+    "no_of_column": 0,
+    "parent": "KindKones Main Menu",
+    "parent_menu": null,
+    "parentfield": "menus",
+    "parenttype": "Menu",
+    "position": "Left",
+    "redirect_url": null
+   },
+   {
+    "icon": null,
+    "is_mega_menu": 0,
+    "mega_m_col_index": 0,
+    "menu_label": "About",
+    "no_of_column": 0,
+    "parent": "KindKones Main Menu",
+    "parent_menu": null,
+    "parentfield": "menus",
+    "parenttype": "Menu",
+    "position": "Left",
+    "redirect_url": null
+   },
+   {
+    "icon": null,
+    "is_mega_menu": 0,
+    "mega_m_col_index": 0,
+    "menu_label": "Shop",
+    "no_of_column": 0,
+    "parent": "KindKones Main Menu",
+    "parent_menu": null,
+    "parentfield": "menus",
+    "parenttype": "Menu",
+    "position": "Left",
+    "redirect_url": null
+   },
+   {
+    "icon": null,
+    "is_mega_menu": 0,
+    "mega_m_col_index": 0,
+    "menu_label": "Catering",
+    "no_of_column": 0,
+    "parent": "KindKones Main Menu",
+    "parent_menu": null,
+    "parentfield": "menus",
+    "parenttype": "Menu",
+    "position": "Left",
+    "redirect_url": null
+   },
+   {
+    "icon": null,
+    "is_mega_menu": 0,
+    "mega_m_col_index": 0,
+    "menu_label": "Contact",
+    "no_of_column": 0,
+    "parent": "KindKones Main Menu",
+    "parent_menu": null,
+    "parentfield": "menus",
+    "parenttype": "Menu",
+    "position": "Left",
+    "redirect_url": null
+   }
+  ],
+  "modified": "2023-08-05 14:30:17.274828",
+  "name": "KindKones Main Menu",
+  "title": "KindKones Main Menu"
+ }
+]
